@@ -90,7 +90,7 @@ public class Game {
         }
     }
 
-    public static void main() {
+    public static void ControlGame() {
         //initialize all global varibles
         char[][] borad = {{' ', ' ', ' '}, {' ', ' ', ' '}, {' ', ' ', ' '}};
         int round = 0;
