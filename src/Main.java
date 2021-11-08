@@ -4,8 +4,8 @@ import java.io.*;
 
 public class Main {
     /************ Rank ************/
-    public static void ControlRank(){
-
+    public static int ControlRank(){
+        return 1;
     }
     /************ GAME ************/
     public static void Analyse(char[][] borad, Result result, Player[] P, int BoradSize) {
@@ -185,10 +185,10 @@ public class Main {
                             "          @ Go to PVP ---- P\n"+
                             "          @ Rank board --- R\n"+
                             "          @ Exit game ---- Q\n"+
-                            "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\n"
+                            "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\n"+
+                            "          @ "
             );
             //measure the input
-            if (option=='Q')break;
             switch(option){
                 case 'P': { //go to game
                     ControlGame();
