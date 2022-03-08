@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4328e0a7-0560-4787-825a-06c1f132360d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled104/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/Player.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled104/Player.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/Rank.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled104/Rank.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/Result.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled104/Result.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Rank.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Rank.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

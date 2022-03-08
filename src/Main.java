@@ -168,7 +168,7 @@ public class Main {
         System.out.println("Player 1: ");
         Player[] player={
                 SetPlayer(InputString("Blue Red Green Yellow Black White\nPlease Choose your team:"), InputChar("Please pick a character as your chessmen (Any letters and symbols can be your chessmen!): ")),
-                SetPlayer(InputString("Player 2:\nBlue Red Green Yellow Brown Black White\nPlease input your username:"), InputChar("Please pick a character as your chessmen (Any letters and symbols can be your chessmen!): "))
+                SetPlayer(InputString("Player 2:\nBlue Red Green Yellow Brown Black White\nPlease Choose your team:"), InputChar("Please pick a character as your chessmen (Any letters and symbols can be your chessmen!): "))
         };
         //inifinity loop for the main game
         while (!Get_End(result)) {
